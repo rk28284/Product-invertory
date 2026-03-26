@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Wireless Mouse", "category": "Electronics", "price": 25 },
+  { "id": 2, "name": "Mechanical Keyboard", "category": "Electronics", "price": 75 },
+  { "id": 3, "name": "Office Chair", "category": "Furniture", "price": 150 },
+  { "id": 4, "name": "Desk Lamp", "category": "Furniture", "price": 30 },
+  { "id": 5, "name": "Water Bottle", "category": "Lifestyle", "price": 15 },
+  { "id": 6, "name": "Yoga Mat", "category": "Fitness", "price": 40 },
+  { "id": 7, "name": "Dumbbells", "category": "Fitness", "price": 60 },
+  { "id": 8, "name": "Laptop Stand", "category": "Electronics", "price": 45 },
+  { "id": 9, "name": "Coffee Mug", "category": "Lifestyle", "price": 12 },
+  { "id": 10, "name": "Bookshelf", "category": "Furniture", "price": 200 }
+]
